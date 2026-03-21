@@ -28,7 +28,6 @@ Projet de clôture du parcours : construire un **portfolio en ligne personnalis�
 |---|---|
 | `Livrables/` | Portfolio en ligne + livrables finaux |
 | `Doc/` | Documentation et notes de travail |
-| `Exemples-Livrables/` | Exemples et références de livrables |
 
 ---
 *Portfolio de Laurent Maganto – Parcours Data Analyst OpenClassrooms*
