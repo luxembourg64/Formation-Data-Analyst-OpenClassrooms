@@ -28,6 +28,7 @@ Première mission complète de **modélisation prédictive** du parcours — un 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ## 📁 Contenu du dossier
 
@@ -36,7 +37,6 @@ Première mission complète de **modélisation prédictive** du parcours — un 
 | `Livrables/` | Notebook ML + présentation des résultats |
 | `Doc/` | Documentation et notes de travail |
 | `Données/` | Jeu de données sur les dimensions des billets |
-| `Cours/` | Supports sur le Machine Learning |
 
 ---
 *Portfolio de Laurent Maganto – Parcours Data Analyst OpenClassrooms*
