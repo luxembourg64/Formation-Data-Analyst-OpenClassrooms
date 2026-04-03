@@ -34,8 +34,6 @@ Endosser la posture de Data Analyst conseil auprès de la direction : réaliser 
 | `Livrables/` | Notebook Python + présentation des recommandations |
 | `Doc/` | Documentation et notes de travail |
 | `Données/` | Jeux de données sources |
-| `Sources-CSV/` | Fichiers CSV bruts |
-| `Cours-Analyse-Exploratoire/` | Supports sur l'analyse exploratoire de données |
 
 ---
 *Portfolio de Laurent Maganto – Parcours Data Analyst OpenClassrooms*
