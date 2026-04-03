@@ -30,7 +30,7 @@ En tant que consultant Data Analyst chez une ESN Data, créer un tableau de bord
 |---|---|
 | `Livrables/` | Fichier Power BI (.pbix) + présentation |
 | `Données/` | Données sources du projet |
-| `Cours-PowerBI/` | Supports de prise en main Power BI |
+| `Doc/` | Documentation et consignes du projet |
 | `Logos/` | Ressources graphiques du projet |
 
 ---
