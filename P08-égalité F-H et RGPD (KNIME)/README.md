@@ -30,8 +30,8 @@ En tant que Data Analyst dans un cabinet de conseil en transformation digitale, 
 | Fichier / Dossier | Description |
 |---|---|
 | `Livrables/` | Workflow KNIME + fichier CSV + présentation |
-| `Doc/` | Documentation et données SIRH sources |
-| `Cours-Data-Gouvernance/` | Supports sur la gouvernance des données et le RGPD |
+| `Doc/` | Documentation et consignes du projet |
+| `Données/` |  données SIRH sources |
 
 ---
 *Portfolio de Laurent Maganto – Parcours Data Analyst OpenClassrooms*
