@@ -31,8 +31,8 @@ Analyser les données de ventes d'une librairie pour identifier des tendances, t
 | Fichier / Dossier | Description |
 |---|---|
 | `Livrables/` | Notebook Python + présentation des résultats |
-| `Doc/` | Documentation et données sources |
-| `Cours-Tests-Statistiques/` | Supports sur les tests statistiques |
+| `Doc/` | Documentation |
+| `Données/` | Données sources |
 
 ---
 *Portfolio de Laurent Maganto – Parcours Data Analyst OpenClassrooms*
