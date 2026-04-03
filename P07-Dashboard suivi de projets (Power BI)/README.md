@@ -31,7 +31,6 @@ En tant que consultant Data Analyst chez une ESN Data, créer un tableau de bord
 | `Livrables/` | Fichier Power BI (.pbix) + présentation |
 | `Données/` | Données sources du projet |
 | `Doc/` | Documentation et consignes du projet |
-| `Logos/` | Ressources graphiques du projet |
 
 ---
 *Portfolio de Laurent Maganto – Parcours Data Analyst OpenClassrooms*
