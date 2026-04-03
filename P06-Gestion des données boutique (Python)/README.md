@@ -32,6 +32,7 @@ Mission professionnelle : préparer, nettoyer et analyser les données de stock 
 |---|---|
 | `Livrables/` | Notebook Python + présentation |
 | `Data/` | Fichiers de données de la boutique |
+| `Doc/` | Documentation et consignes du projet |
 
 ---
 *Portfolio de Laurent Maganto – Parcours Data Analyst OpenClassrooms*
