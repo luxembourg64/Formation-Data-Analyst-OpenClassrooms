@@ -28,7 +28,7 @@ En tant que consultant Data Analyst en mission dans une ONG, concevoir un tablea
 | Fichier / Dossier | Description |
 |---|---|
 | `Livrables/` | Fichier Power BI (.pbix) + présentation |
-| `Doc/` | Documentation, données sources et notes |
-
+| `Doc/` | Documentation et notes |
+| `Données/` | Données sources et notes |
 ---
 *Portfolio de Laurent Maganto – Parcours Data Analyst OpenClassrooms*
