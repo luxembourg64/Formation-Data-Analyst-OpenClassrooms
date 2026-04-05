@@ -4,7 +4,7 @@
 
 ## 📌 Présentation
 
-Ce document PDF est une procédure pas à pas illustrant la création d'un dashboard Power BI dans le cadre du projet Aeroworld. Il suit le déroulé de la [vidéo de démonstration](../video%20Power%20BI/) et détaille chaque étape : import des données, mise en forme, création des visuels et publication du rapport.
+Ce document PDF est une procédure pas à pas illustrant la création d'un dashboard Power BI dans le cadre du projet Aeroworld. Il suit le déroulé de la [vidéo de démonstration](../video%20Power%20BI/) et détaille chaque étape : import des données, modélisation, création des visuels, mise en forme et publication du rapport.
 
 ## 📂 Contenu du dossier
 
@@ -14,4 +14,4 @@ Ce document PDF est une procédure pas à pas illustrant la création d'un dashb
 
 ## 🎬 Vidéo associée
 
-La vidéo de démonstration accompagnant cette procédure est disponible dans le dossier [video Power BI](../video%20Power%20BI/).
+La vidéo de démonstration accompagnant cette procédure est disponible dans le dossier [video Power BI](../video%20Power%20BI/) et sur [Youtube](https://www.youtube.com/watch?v=ltlf84WBXeY).
