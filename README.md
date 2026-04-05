@@ -1,8 +1,5 @@
-# Formation-Data-Analyst-OpenClassrooms-
-Projets du parcours Data Analyst OpenClassrooms
-
-# OpenClassrooms
-Ce dépôt contient une partie des projets réalisés dans le cadre du parcours de formation Data Analyst dispensé par OpenClassrooms.
+# Formation Data Analyst (OpenClassrooms)
+Ce dépôt contient les projets réalisés dans le cadre du parcours de formation Data Analyst dispensé par [OpenClassrooms](https://openclassrooms.com/fr/paths/804-data-analyst).
 
 ## 📑 Projets réalisés
 Le scénario, les objectifs, les outils utilisés et les compétences acquises sont détaillés pour chacun des projets dans le répertoire qui lui est dédié.
