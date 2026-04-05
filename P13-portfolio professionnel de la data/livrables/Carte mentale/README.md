@@ -1,6 +1,6 @@
 # Carte mentale – Portfolio professionnel de la data
 
-![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=miro&logoColor=000000)
 
 Cette carte mentale présente la **structure et les axes stratégiques** du portfolio professionnel réalisé dans le cadre du projet P13 de la formation Data Analyst OpenClassrooms.
 
