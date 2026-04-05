@@ -34,7 +34,6 @@ Analyse exploratoire, analyse descriptive, algorithme de prédiction.
 
 
 ## 🔧 Outils utilisés
-## &#128295; Outils utilisés
 |                   |Projet 10 |Projet 9 |Projet 8 |Projet 7 |Projet 6 |Projet 5 |Projet 4 |Projet 3 |
 |:-----------------:|:--------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 |Jupyter<br>Notebook|&#10003;  |&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |         |
