@@ -1,5 +1,7 @@
 # P10 – Étude sur l'accès à l'eau potable dans le monde
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Power Query](https://img.shields.io/badge/Power%20Query-2BA3DC?style=flat&logo=microsoft&logoColor=white)
+
 > **Formation :** Data Analyst – OpenClassrooms | **Durée estimée :** 70 h | **Outil :** Power BI
 
 ## 🎯 Objectifs du projet
@@ -20,8 +22,6 @@ En tant que consultant Data Analyst en mission dans une ONG, concevoir un tablea
 | Dashboard | Créer un tableau de bord interactif disponible et accessible |
 
 ## 🛠️ Outils utilisés
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ## 📁 Contenu du dossier
 
