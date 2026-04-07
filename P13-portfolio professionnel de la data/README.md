@@ -22,6 +22,10 @@ Projet de clôture du parcours : construire un **portfolio en ligne personnalis�
 | Gestion de projet | Organiser un projet data avec des outils dédiés |
 | Cahier des charges | Formaliser un CDC fonctionnel pour cadrer besoins et solutions |
 
+## 🛠️ Outils utilisés
+
+![Miro](https://img.shields.io/badge/Miro-FFD02F?style=flat&logo=miro&logoColor=black) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Power Query](https://img.shields.io/badge/Power%20Query-2BA3DC?style=flat&logo=microsoft&logoColor=white) ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?style=flat&logo=obsstudio&logoColor=white) ![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white) ![Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat&logo=microsoftword&logoColor=white) ![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)
+
 ## 📁 Contenu du dossier
 
 | Fichier / Dossier | Description |
