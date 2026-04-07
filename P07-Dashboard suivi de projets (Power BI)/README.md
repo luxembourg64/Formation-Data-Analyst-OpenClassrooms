@@ -1,5 +1,7 @@
 # P07 – Dashboard de suivi de projets avec Power BI
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Power Query](https://img.shields.io/badge/Power%20Query-2BA3DC?style=flat&logo=microsoft&logoColor=white)
+
 > **Formation :** Data Analyst – OpenClassrooms | **Durée estimée :** 60 h | **Outil :** Power BI
 
 ## 🎯 Objectifs du projet
@@ -21,8 +23,6 @@ En tant que consultant Data Analyst chez une ESN Data, créer un tableau de bord
 | Data visualisation | Produire un reporting pour faciliter la prise de décision |
 
 ## 🛠️ Outils utilisés
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ## 📁 Contenu du dossier
 
