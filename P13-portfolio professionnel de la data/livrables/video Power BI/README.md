@@ -11,5 +11,3 @@ Dans le cadre du projet P13, j'ai réalisé une **vidéo de formation** présent
 
 [https://www.youtube.com/watch?v=ltlf84WBXeY](https://www.youtube.com/watch?v=ltlf84WBXeY)
 
----
-*Portfolio de Laurent Maganto – Parcours Data Analyst OpenClassrooms*
