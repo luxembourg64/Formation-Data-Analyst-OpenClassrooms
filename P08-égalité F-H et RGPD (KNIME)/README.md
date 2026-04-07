@@ -1,7 +1,5 @@
 # P08 – Indicateurs d'égalité Femmes/Hommes avec KNIME
 
-![KNIME](https://img.shields.io/badge/KNIME-FFD800?style=flat&logo=knime&logoColor=black)
-
 > **Formation :** Data Analyst – OpenClassrooms | **Outil :** KNIME
 
 ## 🎯 Objectifs du projet
@@ -24,6 +22,7 @@ En tant que Data Analyst dans un cabinet de conseil en transformation digitale, 
 | Fiabilité | Vérifier la cohérence et la fiabilité des données préparées |
 
 ## 🛠️ Outils utilisés
+![KNIME](https://img.shields.io/badge/KNIME-FFD800?style=flat&logo=knime&logoColor=black)
 
 ## 📁 Contenu du dossier
 
