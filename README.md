@@ -45,7 +45,7 @@ Conception et présentation du portfolio de compétences acquises au cours de la
 |Plotly             |         |         |         |         |&#10003; |         |         |&#10003; |         |&#10003; |&#10003; |
 |SciPy              |         |         |         |         |         |         |         |&#10003; |         |&#10003; |&#10003; |
 |scikit-learn       |         |         |         |         |         |         |         |         |         |&#10003; |&#10003; |
-|statsmodels        |         |         |         |         |         |         |         |         |         |&#10003; |&#10003; |
+|statsmodels        |         |         |         |         |         |         |         |         |         |         |&#10003; |
 |sklearn            |         |         |         |         |         |         |         |         |         |&#10003; |&#10003; |
 |Streamlit          |         |         |         |         |         |         |         |         |         |         |&#10003; |
 |Knime              |         |         |         |         |         |         |&#10003; |         |         |         |         |
