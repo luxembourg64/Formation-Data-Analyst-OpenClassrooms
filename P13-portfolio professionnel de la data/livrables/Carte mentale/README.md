@@ -30,5 +30,3 @@ Elle a été conçue sur **Miro** et offre une vue synthétique des compétences
 
 ![Profil Data Analyst](profil%20data%20Analyst.png)
 
----
-*Portfolio de Laurent Maganto – Parcours Data Analyst OpenClassrooms*
