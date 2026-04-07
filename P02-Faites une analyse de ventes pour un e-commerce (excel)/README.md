@@ -1,7 +1,5 @@
 # P02 – Faites une analyse de ventes pour un e-commerce
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
 > **Formation :** Data Analyst – OpenClassrooms | **Durée estimée :** 40 h | **Outil :** Excel
 
 ## 🎯 Objectifs du projet
@@ -21,6 +19,7 @@ Mission de Data Analyst en situation professionnelle : analyser les ventes d'un 
 | Storytelling | Proposer un récit des résultats avec des procédés narratifs |
 
 ## 🛠️ Outils utilisés
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 ## 📁 Contenu du dossier
 
