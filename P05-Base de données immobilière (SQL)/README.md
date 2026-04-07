@@ -1,5 +1,7 @@
 # P05 – Base de données immobilière avec SQL
 
+![Power Query](https://img.shields.io/badge/Power%20Query-2BA3DC?style=flat&logo=microsoft&logoColor=white) ![SQL Power Architect](https://img.shields.io/badge/SQL%20Power%20Architect-CC2927?style=flat&logo=databricks&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
 > **Formation :** Data Analyst – OpenClassrooms | **Durée estimée :** 60 h | **Outil :** SQL
 
 ## 🎯 Objectifs du projet
@@ -22,8 +24,6 @@ Conception et exploitation d'une base de données immobilière complète, en res
 | RGPD | Assurer la conformité des données personnelles |
 
 ## 🛠️ Outils utilisés
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 ## 📁 Contenu du dossier
 
