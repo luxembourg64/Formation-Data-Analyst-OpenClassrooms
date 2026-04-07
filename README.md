@@ -43,7 +43,7 @@ Conception et présentation du portfolio de compétences acquises au cours de la
 |Matplotlib         |         |         |&#10003; |         |&#10003; |         |         |&#10003; |         |&#10003; |&#10003; |
 |Seaborn            |         |         |         |         |&#10003; |         |         |&#10003; |         |&#10003; |&#10003; |
 |Plotly             |         |         |         |         |&#10003; |         |         |&#10003; |         |&#10003; |&#10003; |
-|SciPy              |         |         |         |         |&#10003; |         |         |&#10003; |         |&#10003; |&#10003; |
+|SciPy              |         |         |         |         |         |         |         |&#10003; |         |&#10003; |&#10003; |
 |scikit-learn       |         |         |         |         |         |         |         |&#10003; |         |&#10003; |&#10003; |
 |statsmodels        |         |         |         |         |         |         |         |&#10003; |         |&#10003; |&#10003; |
 |sklearn            |         |         |         |         |         |         |         |&#10003; |         |&#10003; |&#10003; |
@@ -52,5 +52,5 @@ Conception et présentation du portfolio de compétences acquises au cours de la
 |Power BI           |         |         |         |         |         |&#10003; |         |         |&#10003; |         |         |
 |Power Query        |         |&#10003; |         |&#10003; |         |&#10003; |         |         |&#10003; |         |         |
 |SQL Power Architect|         |&#10003; |         |&#10003; |         |         |         |         |         |         |         |
-|SQLite studio      |         |&#10003; |         | |         |         |         |         |         |         |         |
-|MySQL      |         | |         |&#10003; |         |         |         |         |         |         |         |
+|SQLite studio      |         |&#10003; |         |         |         |         |         |         |         |         |         |
+|MySQL              |         |         |         |&#10003; |         |         |         |         |         |         |         |
