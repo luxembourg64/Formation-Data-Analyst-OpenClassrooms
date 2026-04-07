@@ -1,5 +1,7 @@
 # P04 – Étude de santé publique avec Python (FAO)
 
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
+
 > **Formation :** Data Analyst – OpenClassrooms | **Durée estimée :** 80 h | **Outil :** Python
 
 ## 🎯 Objectifs du projet
@@ -20,10 +22,6 @@ En tant que Data Analyst au sein de la **Food and Agriculture Organization of th
 | Visualisation | Produire des graphiques analytiques |
 
 ## 🛠️ Outils utilisés
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ## 📁 Contenu du dossier
 
