@@ -1,5 +1,7 @@
 # P03 – Requêtes SQL sur une base de données Assurances
 
+![Power Query](https://img.shields.io/badge/Power%20Query-2BA3DC?style=flat&logo=microsoft&logoColor=white) ![SQL Power Architect](https://img.shields.io/badge/SQL%20Power%20Architect-CC2927?style=flat&logo=databricks&logoColor=white) ![SQLiteStudio](https://img.shields.io/badge/SQLiteStudio-003B57?style=flat&logo=sqlite&logoColor=white)
+
 > **Formation :** Data Analyst – OpenClassrooms | **Durée estimée :** 30 h | **Outil :** SQL
 
 ## 🎯 Objectifs du projet
@@ -20,8 +22,6 @@ Projet d'entraînement aux fondamentaux du SQL et de la gestion de bases de donn
 | Requêtage | Rédiger des scripts SQL pour l'aide à la décision |
 
 ## 🛠️ Outils utilisés
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 ## 📁 Contenu du dossier
 
