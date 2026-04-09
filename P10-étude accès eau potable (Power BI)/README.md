@@ -31,5 +31,13 @@ En tant que consultant Data Analyst en mission dans une ONG, concevoir un tablea
 | `Données/` | Données sources |
 | `images/` | Aperçus du dashboard |
 
+## 📊 Aperçu du dashboard
+
+![Vue mondiale](./images/01%20-%20monde.png)
+
+![Vue par région](./images/02%20-%20r%C3%A9gion.png)
+
+![Vue par pays](./images/03%20-%20pays.png)
+
 ---
 *Portfolio de Laurent Maganto – Parcours Data Analyst OpenClassrooms*
