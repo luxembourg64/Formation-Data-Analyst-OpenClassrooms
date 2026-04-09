@@ -30,6 +30,7 @@ Conception et exploitation d'une base de données immobilière complète, en res
 |---|---|
 | `Livrables/` | Scripts SQL, schéma relationnel, présentation |
 | `Doc/` | Documentation et supports de cours |
+| `Données/` | Jeux de données |
 
 ---
 *Portfolio de Laurent Maganto – Parcours Data Analyst OpenClassrooms*
