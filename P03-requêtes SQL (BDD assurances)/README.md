@@ -28,6 +28,7 @@ Projet d'entraînement aux fondamentaux du SQL et de la gestion de bases de donn
 |---|---|
 | `Livrables/` | Scripts SQL + fiche d'autoévaluation |
 | `Données/` | Données utilisées |
+| `Doc/` | Documentation et consignes du projet |
 
 ---
 *Portfolio de Laurent Maganto – Parcours Data Analyst OpenClassrooms*
