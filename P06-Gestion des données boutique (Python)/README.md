@@ -28,7 +28,7 @@ Mission professionnelle : préparer, nettoyer et analyser les données de stock 
 | Fichier / Dossier | Description |
 |---|---|
 | `Livrables/` | Notebook Python + présentation |
-| `Data/` | Fichiers de données de la boutique |
+| `Données/` | Fichiers de données de la boutique |
 | `Doc/` | Documentation et consignes du projet |
 
 ---
