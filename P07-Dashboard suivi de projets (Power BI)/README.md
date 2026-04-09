@@ -31,5 +31,8 @@ En tant que consultant Data Analyst chez une ESN Data, créer un tableau de bord
 | `Données/` | Données sources du projet |
 | `Doc/` | Documentation et consignes du projet |
 
+## 📊 Aperçu du dashboard
+
+![Dashboard - page d'accueil](./01 - Accueil.png)
 ---
 *Portfolio de Laurent Maganto – Parcours Data Analyst OpenClassrooms*
