@@ -26,6 +26,7 @@ Mission de Data Analyst en situation professionnelle : analyser les ventes d'un 
 | Fichier / Dossier | Description |
 |---|---|
 | `Livrables/` | Classeur Excel d'analyse + présentation |
+| `Doc/` | Documentation et consignes du projet |
 
 ---
 *Portfolio de Laurent Maganto – Parcours Data Analyst OpenClassrooms*
