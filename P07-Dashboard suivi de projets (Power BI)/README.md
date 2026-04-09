@@ -33,6 +33,6 @@ En tant que consultant Data Analyst chez une ESN Data, créer un tableau de bord
 
 ## 📊 Aperçu du dashboard
 
-![Dashboard - page d'accueil](./01 - Accueil.png)
+![P07 – Dashboard de suivi de projets avec Power BI](./01 - Accueil.png)
 ---
 *Portfolio de Laurent Maganto – Parcours Data Analyst OpenClassrooms*
